@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speech_Recognition</string>
+    <string name="text_will_appere_here">Text will appere here</string>
+    <string name="click_here_to_capture_voice">Tap on the Mic</string>
+</resources>
